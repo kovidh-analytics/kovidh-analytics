@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Javaji Kovidh 👋  
+Aspiring Data Analyst  
 
-<!--
-**kovidh-analytics/kovidh-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current Project: •	HR Analytics – Employee Attrition & Performance Modeling | Python, ML, Power Bi  
+📊 Focus Areas: Data Analysis, Reporting, SQL, Dashboards, Predictive Modelling  
+🌱 Learning: Advanced SQL, Machine Learning Alogrithms,   
+🌐 LinkedIn:https://www.linkedin.com/in/kovidh-javaji/  
+📫 Email: javaji.kovidh@gmail.com  
 
-Here are some ideas to get you started:
+### Tech Stack
+ MySQL, Power BI, Excel, Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects (Pinned Below)
+1. HR Analytics – Employee Attrition & Performance Modeling | Python, ML, Power Bi  
+2. Customer Shopping Behavior Analysis – SQL, Python, Power BI  
+3. Instagram Fake & Spammer Detection – ML, EDA, Feature Engineering  
+4. Life Expectancy Analysis – Regression, Visualization  
